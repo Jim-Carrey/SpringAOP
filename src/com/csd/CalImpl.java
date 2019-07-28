@@ -1,5 +1,6 @@
 package com.csd;
 
+@Component
 public class CalImpl implements Cal{
 
 	@Override
